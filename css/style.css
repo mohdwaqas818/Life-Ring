@@ -1,0 +1,294 @@
+html{
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+body{
+	overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+/*Menu*/
+
+.fa-life-ring{
+    font-size: 56px;
+    color: #4c6ef5;
+}
+
+.navbar-nav{
+    font-weight: bold;
+}
+
+.menu-link:hover {
+ 	background-color: #4c6ef5;
+    padding: 10px;
+}
+
+.navbar-toggle{
+    margin-top: 28px;
+}
+
+.navbar-menu{
+    padding: 0 70px;
+    background-color: white;
+    border-color: white;
+    margin-top: 20px;
+}
+
+.nav{
+    margin-top: 10px;
+}
+
+/*Bella Email Template*/
+
+.bella-email{
+    background-image: url('../images/header-image.jpg'); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 25px;
+    min-height: 85%;
+}
+
+.bella-email h1{
+    font-size: 62px;
+    text-align: center;
+}
+
+.bella-email button{
+    background-color: #4c6ef5;
+}
+
+.bella-email button{
+    padding: 20px;
+    font-size: 40px;
+    border-radius: 70px;
+    margin-top: 50px;
+}
+
+.b-email{
+    color: #a8a8a8;
+}
+
+.life-ring{
+    margin-top: 120px;
+    text-align: center;
+}
+
+.life-ring button{
+    font-size: 30px;
+}
+
+/*Read More*/
+
+.read{
+    padding: 0 30px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.read-more-1{
+    text-align: center;
+}
+
+.read-more-1 i{
+    margin-top: 25px;
+}
+
+.read-more-1 p{
+    margin-top: 20px; 
+}
+
+.fa-spinner{
+    font-size: 80px;
+}
+
+.fa-hourglass-start{
+    font-size: 80px;
+}
+
+.fa-bookmark{
+    font-size: 80px;
+}
+
+.read-more-1 p{
+    font-size: 14px;
+}
+
+.read-more-1 span{
+    font-size: 20px;
+}
+
+/*Developer*/
+
+.developer-section{
+    background-color: #f5f5f5;
+    margin-top: 70px;
+    padding: 70px 0;
+}
+
+.bill{
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.designer{
+    margin-top: 10px;
+}
+
+.developer{
+    text-align: center;
+}
+
+.lorem-developer{
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px;
+}
+
+.developer1 img{
+    margin-top: 20px;
+}
+
+.developer1 img{
+    border-radius: 50%;
+    width: 65%;
+    height: 30%;
+}
+
+/*BRAND*/
+
+.crop-section{
+    text-align: center;
+}
+
+.brand img{
+    width: 100%;
+}
+
+.brand-section{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.brand{
+    padding: 5px;
+}
+
+/*CROP*/
+
+.crop2-img{
+    margin-top: 20px;
+}
+
+.crop-section{
+    background-color: #f5f5f5;
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+
+.crop-row{
+    padding: 0 60px;
+}
+
+.crop img{
+    width: 50%;
+    margin-bottom: 30px;
+}
+
+.p-crop1{
+    margin-bottom: 20px;
+}
+
+/*Articles*/
+
+.article{
+    margin: 70px 0px;
+}
+
+
+.world{
+    font-size: 40px;
+    padding-top: 15px;
+}
+
+.crop-row-2{
+    margin-top: 30px;
+}
+
+/*NEWS*/
+
+.newss{
+    background-color: #f5f5f5;
+    padding: 70px 0px;
+}
+
+.news1 img{
+    width: 75%;
+    margin-top: 25px;
+}
+
+.news2{
+    margin-top: 100px;
+}
+
+/*sign-up*/
+
+.sign{
+    padding: 70px 0;
+}
+
+.sign-up{
+    text-align: center;
+}
+
+.sign-up button{
+    margin-top: 15px;
+    font-size: 28px;
+    background-color: #4c6ef5;
+    padding: 10px 30px;
+}
+
+/*Footer*/
+
+.bella-footer{
+    text-align: center;
+    background-color: #00404b;
+    padding: 50px 0;
+}
+
+.footer-head h2{
+    color: white;
+    margin-bottom: 30px;
+    color: #4c6ef5;
+}
+
+.bookmark p{
+    margin-top: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+#nav {
+    text-align:center;
+    font-weight: bold;
+    color: white;
+}
+
+#nav li a{
+    color: white;
+}
+
+#nav li {
+    display:inline;
+}
+
+#nav a {
+    text-decoration:none; 
+    padding:0 30px; /* variable width */
+}
+
+#nav li a:hover{
+    background-color: #4c6ef5;
+    padding: 10px;
+}
